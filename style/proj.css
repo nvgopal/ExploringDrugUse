@@ -129,18 +129,6 @@ table, th, td {
     text-align: center;
 }
 
-#area-Descrip {
-    background-color: #f1f1df;
-    width: 50%;
-    text-align: center;
-    justify-content: space-around;
-    padding: 2px;
-}
-
-#parent1 {
-    margin-right: 50px;
-}
-
 .pieStyle {
     background-color: whitesmoke !important;
 }
